@@ -1,0 +1,7 @@
+# my.cnf
+[client]
+database = 'dr-todo'
+user = 'root'
+password = 'password'
+HOST = '127.0.0.1'
+default-character-set = utf8
